@@ -25,12 +25,7 @@ The feature 'Amount' is the transaction Amount.
 
 Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
-### 2.Exploratory Data Analysis
-* The dataset is highly imbalanced.
-  ![](https://github.com/meghasolanki008/Credit_card_fraud_detection/blob/main/Screenshots/Data%20Imbalance.png)
-
-
-### 3.Data Cleaning and Data Preprocessing
+### 2.Data Cleaning and Data Preprocessing
 * Null values detection
 * Missing values detection
 * Duplicated values detection
@@ -38,28 +33,26 @@ Feature 'Class' is the response variable and it takes value 1 in case of fraud a
 * Imbalanced Data detection
 * Handled Imbalanced data using SMOTE
 
-### 4. Train-test split
+### 3. Train-test split
 * Featue Engineering
 * Feature extraction
 * Feature Importance
 
 
-### 5. Modeling
+### 4. Modeling
 * Logical Regression Classifier
 * Decision Tree Classifier
 * Random Forest Classifier
-* XG Boost Classifier
 
-### 6. Evaluation
+### 5. Evaluation
 
 * ROC AUC Score
 * ROC Curve
 * Confusion Matrix
 * Classification report
 
-### 7. Conclusion
-Other models weren't much far behind regarding performance too , but I decided to keep the final code clean and keep the trial and error part in the "raw_code" file .
-
+### 6. Conclusion
+Decision Tree and Random Forest Classifier gives a better accuracy score of 99.94%
       
 
       
