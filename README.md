@@ -26,6 +26,8 @@ The feature 'Amount' is the transaction Amount.
 Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
 ### 2.Exploratory Data Analysis
+* The dataset is highly imbalanced.
+  ![](https://github.com/meghasolanki008/Credit_card_fraud_detection/blob/main/Screenshots/Data%20Imbalance.png)
 
 
 ### 3.Data Cleaning and Data Preprocessing
