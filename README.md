@@ -40,7 +40,7 @@ Feature 'Class' is the response variable and it takes value 1 in case of fraud a
 
 
 ### 4. Modeling
-* Logical Regression Classifier
+* Logistic Regression Classifier
 * Decision Tree Classifier
 * Random Forest Classifier
 
